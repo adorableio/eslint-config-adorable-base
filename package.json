@@ -1,0 +1,9 @@
+{
+  "name": "eslint-config-adorable-base",
+  "version": "0.0.1",
+  "description": "Base ESLint configuration for Adorable IO",
+  "main": "index.js",
+  "repository": "https://github.com/adorableio/eslint-config-adorable-base",
+  "author": "Ryland Herrick <ryalnd@gmail.com>",
+  "license": "MIT"
+}
